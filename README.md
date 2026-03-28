@@ -165,11 +165,11 @@ This simulates a real healthcare payer analytics use-case:
 
 ## Who this project is relevant for
 
-- Healthcare strategy & consulting roles
-- Health-tech product analytics roles
-- Payer/provider analytics teams
-- Population health & value-based care teams
-
+This project mirrors real analytics workflows used in:
+- Healthcare payer strategy & actuarial teams
+- Health-tech product analytics
+- Population health & value-based care programs
+- Healthcare consulting (cost modeling, ROI simulation)
 
 
 
